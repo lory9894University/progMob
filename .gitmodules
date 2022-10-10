@@ -1,0 +1,3 @@
+[submodule "MyTimeTrade"]
+	path = MyTimeTrade
+	url = git@github.com:lory9894/MyTimeTrade.git
